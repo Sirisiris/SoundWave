@@ -1,13 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
 import Navbar from './components/Navbar.js';
+import Footer from './components/Footer.js';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
         <Navbar />
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={logo} className="App-logo" alt="logo" width="500px"/>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
@@ -19,7 +19,7 @@ function App() {
         >
           Learn React
         </a>
-      </header>
+      <Footer />
     </div>
   );
 }
