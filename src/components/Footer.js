@@ -1,29 +1,25 @@
 import React from "react";
-import {Button, Box} from "@mui/material";
+import {Button, Box, TableFooter} from "@mui/material";
 import tw from '../images/twitter.svg';
 import fb from '../images/facebook.svg';
 
 export default function Footer () {
     return(
-        <Box style={{backgroundColor: "#202027"}}>
-            <Button style={{color: "white", backgroundColor: "transparent", marginLeft: "20%", fontSize: "1.1rem"}}>
-                About Us
-            </Button>
-            <Button style={{color: "white", backgroundColor: "transparent", marginLeft: "2%", fontSize: "1.1rem"}}>
-                Contact
-            </Button>
-            <Button style={{color: "white", backgroundColor: "transparent", marginLeft: "35%"}}>
-                <img src={tw} alt="Twitter" />
-            </Button>
-            <Button style={{color: "white", backgroundColor: "transparent", fontSize: "1.1rem"}}>
+    <TableFooter style={{backgroundColor: "#202027", display:"flex", justifyContent: "space-around"}}>
+        <Box style={{display:"flex", gap:"3rem"}}>
+            <Button style={{color: "white", backgroundColor: "transparent", fontFamily: "Poppins", fontWeight: "400", fontSize: "1.1rem", textTransform: "capitalize"}}>About Us</Button>
+            <Button style={{color: "white", backgroundColor: "transparent", fontFamily: "Poppins", fontWeight: "400", fontSize: "1.1rem", textTransform: "capitalize"}}>Contact</Button>
+        </Box>
+        <Box>
+            <Button style={{color: "white", backgroundColor: "transparent", fontFamily: "Poppins", fontWeight: "400", fontSize: "1.1rem", textTransform: "capitalize"}}>
+                <img src={tw} alt="Twitter" style={{paddingRight: "0.5rem"}}/>
                 Twitter
             </Button>
-            <Button style={{color: "white", backgroundColor: "transparent"}}>
-                <img src={fb} alt="Facebook" />
-            </Button>
-            <Button style={{color: "white", backgroundColor: "transparent", fontSize: "1.1rem"}}>
+            <Button style={{color: "white", backgroundColor: "transparent", fontFamily: "Poppins", fontWeight: "400", fontSize: "1.1rem", textTransform: "capitalize"}}>
+                <img src={fb} alt="Facebook" style={{paddingRight: "0.5rem", marginLeft: "1rem"}}/>
                 Facebook
             </Button>
         </Box>
+        </TableFooter>
     )
-}
+    }
