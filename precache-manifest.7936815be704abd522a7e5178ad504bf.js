@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "bd667b1dcaa79db214aa",
-    "url": "/SoundWave/static/css/main.ec3d3de4.chunk.css"
+    "revision": "3becae92bbd0ed0cbecd",
+    "url": "/SoundWave/static/css/main.c3608501.chunk.css"
   },
   {
-    "revision": "bd667b1dcaa79db214aa",
-    "url": "/SoundWave/static/js/main.bd667b1d.chunk.js"
+    "revision": "3becae92bbd0ed0cbecd",
+    "url": "/SoundWave/static/js/main.3becae92.chunk.js"
   },
   {
-    "revision": "c8ff8a031fedc5f83016",
-    "url": "/SoundWave/static/js/1.c8ff8a03.chunk.js"
+    "revision": "45789c75afb661050078",
+    "url": "/SoundWave/static/js/1.45789c75.chunk.js"
   },
   {
-    "revision": "91c2b01d2913c4d79f3c",
-    "url": "/SoundWave/static/js/2.91c2b01d.chunk.js"
+    "revision": "3b112fda664c5a4fc85d",
+    "url": "/SoundWave/static/js/2.3b112fda.chunk.js"
   },
   {
-    "revision": "3e65800507d04718f842",
-    "url": "/SoundWave/static/js/runtime~main.3e658005.js"
+    "revision": "ec373ccbc565f0e440b1",
+    "url": "/SoundWave/static/js/runtime~main.ec373ccb.js"
   },
   {
     "revision": "9c7d57b29609b9e0e42a5d86850c5c50",
@@ -32,8 +32,8 @@ self.__precacheManifest = [
     "url": "/SoundWave/static/media/landing-page-girl.d92486b0.png"
   },
   {
-    "revision": "db4826b38ae999077bfe926f19825f87",
-    "url": "/SoundWave/static/media/background1.db4826b3.png"
+    "revision": "bf98df20e9bd22f809c6f148e3c969c3",
+    "url": "/SoundWave/static/media/background1.bf98df20.png"
   },
   {
     "revision": "b42b112de2ea0a0346949a2e7dd8930e",
@@ -52,7 +52,11 @@ self.__precacheManifest = [
     "url": "/SoundWave/static/media/more.5f583ced.svg"
   },
   {
-    "revision": "35ec2976cf6b27eb964481697784a052",
+    "revision": "897210f8bc3fa2e66c04895e8d04537a",
+    "url": "/SoundWave/static/media/background2.897210f8.png"
+  },
+  {
+    "revision": "af5b8cf44cbd584b129d9a3c896b088b",
     "url": "/SoundWave/index.html"
   }
 ];
