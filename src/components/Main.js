@@ -1,7 +1,7 @@
 import React from "react";
 import {Button, Box} from "@mui/material";
 import maingirl from "../images/landing-page-girl.png";
-import background1 from "../images/background1.png"
+import background1 from "../images/background1.png";
 import Typography from '@mui/material/Typography';
 
 export default function Main() {

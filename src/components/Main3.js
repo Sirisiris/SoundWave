@@ -1,9 +1,10 @@
 import React from 'react';
 import { Button, Box, TextField, Typography } from "@mui/material";
+import background2 from "../images/background2.png";
 
 export default function Main3 () {
     return (
-<section className="Main3" id="Main3" style={{backgroundColor: "#302e3a", display: "flex", justifyContent: "center", alignItems: "center", paddingTop: "8%", paddingBottom: "10%"}}>
+<section className="Main3" id="Main3" style={{backgroundImage: `url(${background2})`, display: "flex", justifyContent: "center", alignItems: "center", paddingTop: "8%", paddingBottom: "10%"}}>
     <Box style={{display: "flex", gap: "20px"}}>
     <Typography variant="h1" paragraph color="#FFFFFD" style={{fontFamily: "Poppins", fontWeight: "600", marginRight: "8rem"}}>Join the <span style={{color: "#d3007b"}}>fun.</span></Typography>
     </Box>

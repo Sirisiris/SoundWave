@@ -7,7 +7,7 @@ import icon3 from "../images/more.svg";
 
 export default function Main2() {
     return(
-    <section className="Main2" id="Main2" style={{backgroundColor: "#302e3a", display: "flex", justifyContent: "center", alignItems: "center", gap: "5%", paddingTop: "10%", paddingBottom: "10%"}}>
+    <section className="Main2" id="Main2" style={{backgroundColor: "#2d2a38", display: "flex", justifyContent: "center", alignItems: "center", gap: "5%", paddingTop: "10%", paddingBottom: "10%"}}>
 
         <Box>
             <Typography variant="h3" paragraph color="#FFFFFD" style={{fontFamily: "Poppins", fontSize: "3.5rem"}}>Discover new music</Typography> 
