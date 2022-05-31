@@ -1,7 +1,7 @@
 {
   "main.css": "/SoundWave/static/css/main.c3608501.chunk.css",
-  "main.js": "/SoundWave/static/js/main.3becae92.chunk.js",
-  "main.js.map": "/SoundWave/static/js/main.3becae92.chunk.js.map",
+  "main.js": "/SoundWave/static/js/main.765a8244.chunk.js",
+  "main.js.map": "/SoundWave/static/js/main.765a8244.chunk.js.map",
   "static/js/1.45789c75.chunk.js": "/SoundWave/static/js/1.45789c75.chunk.js",
   "static/js/1.45789c75.chunk.js.map": "/SoundWave/static/js/1.45789c75.chunk.js.map",
   "static/js/2.3b112fda.chunk.js": "/SoundWave/static/js/2.3b112fda.chunk.js",
@@ -19,6 +19,6 @@
   "static/media/background2.png": "/SoundWave/static/media/background2.897210f8.png",
   "static/css/main.c3608501.chunk.css.map": "/SoundWave/static/css/main.c3608501.chunk.css.map",
   "index.html": "/SoundWave/index.html",
-  "precache-manifest.7936815be704abd522a7e5178ad504bf.js": "/SoundWave/precache-manifest.7936815be704abd522a7e5178ad504bf.js",
+  "precache-manifest.84c2c1b13aff95415564ef133e6fedef.js": "/SoundWave/precache-manifest.84c2c1b13aff95415564ef133e6fedef.js",
   "service-worker.js": "/SoundWave/service-worker.js"
 }
