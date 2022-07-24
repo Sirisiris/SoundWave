@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/SoundWave/precache-manifest.84c2c1b13aff95415564ef133e6fedef.js"
+  "/SoundWave/precache-manifest.94103d45a4f29ac3bfa960dacc20fed3.js"
 );
 
 workbox.clientsClaim();

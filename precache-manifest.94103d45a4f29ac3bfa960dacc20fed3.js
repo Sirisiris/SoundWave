@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "765a8244fe44a570aaa4",
-    "url": "/SoundWave/static/css/main.c3608501.chunk.css"
+    "revision": "64c08c3b708af6f6f5f5",
+    "url": "/SoundWave/static/css/main.30b06c0f.chunk.css"
   },
   {
-    "revision": "765a8244fe44a570aaa4",
-    "url": "/SoundWave/static/js/main.765a8244.chunk.js"
+    "revision": "64c08c3b708af6f6f5f5",
+    "url": "/SoundWave/static/js/main.64c08c3b.chunk.js"
   },
   {
-    "revision": "45789c75afb661050078",
-    "url": "/SoundWave/static/js/1.45789c75.chunk.js"
+    "revision": "6027f9d15d8148605ea1",
+    "url": "/SoundWave/static/js/1.6027f9d1.chunk.js"
   },
   {
-    "revision": "3b112fda664c5a4fc85d",
-    "url": "/SoundWave/static/js/2.3b112fda.chunk.js"
+    "revision": "bb4bfe5937bd4278bd14",
+    "url": "/SoundWave/static/js/2.bb4bfe59.chunk.js"
   },
   {
-    "revision": "ec373ccbc565f0e440b1",
-    "url": "/SoundWave/static/js/runtime~main.ec373ccb.js"
+    "revision": "0613735d875607b13339",
+    "url": "/SoundWave/static/js/runtime~main.0613735d.js"
   },
   {
     "revision": "9c7d57b29609b9e0e42a5d86850c5c50",
@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "/SoundWave/static/media/background2.897210f8.png"
   },
   {
-    "revision": "22df190cc8515c9a363b3db9bb94c0e5",
+    "revision": "16d868fee080d792012870f562f4540c",
     "url": "/SoundWave/index.html"
   }
 ];
