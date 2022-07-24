@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "64c08c3b708af6f6f5f5",
+    "revision": "2eb678f6d600c3409d6b",
     "url": "/SoundWave/static/css/main.30b06c0f.chunk.css"
   },
   {
-    "revision": "64c08c3b708af6f6f5f5",
-    "url": "/SoundWave/static/js/main.64c08c3b.chunk.js"
+    "revision": "2eb678f6d600c3409d6b",
+    "url": "/SoundWave/static/js/main.2eb678f6.chunk.js"
   },
   {
     "revision": "6027f9d15d8148605ea1",
@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "/SoundWave/static/media/background2.897210f8.png"
   },
   {
-    "revision": "16d868fee080d792012870f562f4540c",
+    "revision": "7ef295288db3c9043fc8b46aab457f6b",
     "url": "/SoundWave/index.html"
   }
 ];
