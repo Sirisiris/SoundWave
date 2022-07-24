@@ -1,5 +1,5 @@
 import React from "react";
-import { Button, Box, Typography, Grid, Container } from "@mui/material";
+import { Button, Box, Typography, Grid } from "@mui/material";
 import covers from "../images/covers.jpg";
 import icon1 from "../images/microphone.svg";
 import icon2 from "../images/albums.svg";

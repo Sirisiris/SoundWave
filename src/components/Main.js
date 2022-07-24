@@ -1,5 +1,5 @@
 import React from "react";
-import {Button, Container, Grid} from "@mui/material";
+import {Button, Grid} from "@mui/material";
 import maingirl from "../images/landing-page-girl.png";
 import background1 from "../images/background1.png";
 import Typography from '@mui/material/Typography';
