@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-![Preview](https://i.ibb.co/vmDFYfq/ezgif-com-gif-maker-10.gif)
+![Preview](https://media.giphy.com/media/zwl37cKliPZIWTcf8g/giphy.gif)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
